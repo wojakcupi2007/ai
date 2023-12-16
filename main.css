@@ -10,14 +10,7 @@ img{
     max-height: 100%;
     
 }
-@keyframes uwu{
-    0% {
-        transform: rotate(0deg) translateX(0);
-      }
-      100% {
-        transform: rotate(360deg) translateX(100%);
-      }
-}
+
 .main_barra{
     border: 5px solid white;
     box-shadow: inset 0 0 15px rgb(37, 212, 37),0 0 15px rgb(37, 212, 37) ;
