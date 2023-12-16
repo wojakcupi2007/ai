@@ -17,11 +17,7 @@ async function getCompletion(prompt) {
 
     }),
   });
-function animateImage() {
-  
-  const data = await response.json();
-  return data;
-}
+
 
 button.addEventListener("click", async () => {
   const response = await getCompletion(prompt.value);
