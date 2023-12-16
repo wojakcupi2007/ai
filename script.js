@@ -18,8 +18,7 @@ async function getCompletion(prompt) {
     }),
   });
 function animateImage() {
-  img.style.animation = "uwu infinite 20s linear";
-}
+  
   const data = await response.json();
   return data;
 }
